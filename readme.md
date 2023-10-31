@@ -1,4 +1,4 @@
-# My Code Repository
+# Banx Lending Pro
 
 This repository contains code for a project that manage active offers in bang.gg. Follow these steps to run the code.
 
