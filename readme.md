@@ -16,15 +16,19 @@ Before you start, make sure you have the following:
 
 ```bash
 git clone https://github.com/CryptoUncleSam/banx-lending-pro
+```
 
 2. Change to the project directory:
 
 ```bash
 cd manage-banx-lending-pro
+```
 
 3. Install the necessary dependencies using npm:
+
 ```bash
 npm install
+```
 
 ## Configuration
 
@@ -39,6 +43,7 @@ npm install
 Once you have cloned the repository, installed the dependencies, and configured the config.ts file, you can run the code:
 ```bash
 npm run start
+```
 
 This command will start the application and perform its intended function.
 
