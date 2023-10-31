@@ -1,0 +1,20 @@
+{
+  "name": "banx-pro-lending",
+  "version": "1.0.0",
+  "description": "Manage lending offers like a pro",
+  "main": "",
+  "scripts": {
+    "start": "ts-node ./index.ts daniel20692"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fbonds-core": "^0.5.194",
+    "typescript": "^5.2.2",
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.2",
+    "@types/node-fetch": "^2.6.4",
+    "ts-node": "^10.9.1"
+  }
+}
