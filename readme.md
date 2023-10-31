@@ -15,7 +15,7 @@ Before you start, make sure you have the following:
 1. Clone the repository using Git:
 
 ```bash
-git clone https://github.com/CryptoUncleSam/banx-lending-pro
+git clone https://github.com/CryptoUncleSam/banx-lending-pro.git
 ```
 
 2. Change to the project directory:
