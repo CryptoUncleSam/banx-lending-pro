@@ -1,6 +1,6 @@
 # My Code Repository
 
-This repository contains code for a project that does something interesting. Follow these steps to run the code.
+This repository contains code for a project that manage active offers in bang.gg. Follow these steps to run the code.
 
 ## Prerequisites
 
